@@ -21,6 +21,7 @@
  ![this is a screenshot of my website](./screenshot.png)
  * users tutorial video: https://drive.google.com/file/d/1G8jTHtrLWcXvnTDmYr5XjFaaar-2OmgH/view
  * how to add/delete friends tutorial: https://drive.google.com/file/d/1fEHJGNDEFRghME_2Ir7ddGinKuDWmktr/view
+ * creating new thoughts, finding all thoughts, finding thoughts by ID tutorial: https://drive.google.com/file/d/1gXdX2L-GJtLLMiTYBFGlcAeNdVgukgEM/view
  
 
 
