@@ -1,0 +1,27 @@
+{
+  "name": "social-media-startup",
+  "version": "1.0.0",
+  "description": "![NPM](https://img.shields.io/npm/l/inquirer)",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.28.0",
+    "mongoose": "^5.10.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryannekillian/social-media-startup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryannekillian/social-media-startup/issues"
+  },
+  "homepage": "https://github.com/ryannekillian/social-media-startup#readme"
+}
